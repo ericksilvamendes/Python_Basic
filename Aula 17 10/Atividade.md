@@ -1,4 +1,6 @@
-• 2. Crie uma classe chamada Forma, que possui os
+•Atividade
+
+Crie uma classe chamada Forma, que possui os
 atributos area e perimetro.
 
 Implemente as subclasses Retangulo e Triangulo, que
