@@ -12,3 +12,8 @@ triangulo = (Forma.Triangulo(10,10))
 triangulo.calcAreaDoTriangulo(5)
 
 
+result = isinstance(retangulo,Forma.Retangulo)
+print(result)
+
+result = isinstance(triangulo,Forma.Triangulo)
+print(result)
