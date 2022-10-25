@@ -12,4 +12,4 @@ o atributo altura.
 •No código de teste crie um objeto da classe
 Triangulo e outro da Classe Retangulo. Verifique
 se os dois são mesmo instancias de Forma 
-(use instanceof), e calcule a área de cada um.
+(use instanceof), e calcule a área de cada um..
